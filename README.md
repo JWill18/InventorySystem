@@ -21,13 +21,13 @@ Opening the .sln or .uproject file will allow you to compile
 All of the inventory system is setup in the C++ directory of '/Source/InventorySystem/'
 
 Files:
-Inventory.h
-Inventory.cpp
-InventoryItem.h
-InventoryItem.cpp
-InventoryFactory.h
-InventoryFactory.cpp
-ItemActor.h
+Inventory.h  
+Inventory.cpp  
+InventoryItem.h  
+InventoryItem.cpp  
+InventoryFactory.h  
+InventoryFactory.cpp  
+ItemActor.h  
 ItemActor.cpp
 
 # Example
